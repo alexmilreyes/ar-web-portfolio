@@ -38,6 +38,7 @@
     "minimal",
     "animations",
     "dark-mode",
-    "gdpr-compliant"
+    "gdpr-compliant",
+    "gatsby-theme-portfolio-minimal"
   ]
 }
